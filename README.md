@@ -4,6 +4,6 @@ Integrantes del equipo:
 
 Estefania Sotelo
 Florencia Blade
-Ezequiel Warner
-Agustin Warner
+Ezequiel Werner
+Agustin Werner
 Marina ..
